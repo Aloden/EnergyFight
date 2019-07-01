@@ -21,6 +21,7 @@
     "enmap": "^5.0.0",
     "fa": "^1.0.1",
     "ffmpeg": "0.0.4",
-    "fs": "0.0.1-security"
+    "fs": "0.0.1-security",
+    "nodemon": "^1.19.1"
   }
 }
