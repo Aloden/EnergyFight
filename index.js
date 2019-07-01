@@ -4,10 +4,8 @@ const Enmap = require('enmap');
 
 const client = new Discord.Client();
 const config = require('./config.json')
-const actif = require('./actif.json')
 
 client.config = config;
-client.actif = actif;
 
 fs.readdir('./events/', (err, files) => {
   if (err) return console.error(err);
