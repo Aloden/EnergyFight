@@ -1,0 +1,26 @@
+{
+  "name": "energyfight",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aloden/EnergyFight.git"
+  },
+  "author": "Aloden",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aloden/EnergyFight/issues"
+  },
+  "homepage": "https://github.com/Aloden/EnergyFight#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "enmap": "^5.0.0",
+    "fa": "^1.0.1",
+    "ffmpeg": "0.0.4",
+    "fs": "0.0.1-security"
+  }
+}
